@@ -1,4 +1,4 @@
-package ders10;
+package main.java.ders10;
 
     class Calculator {
         int sum(int a, int b) {

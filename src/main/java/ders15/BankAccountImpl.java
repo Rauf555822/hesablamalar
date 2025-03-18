@@ -1,4 +1,4 @@
-package java.ders15;
+package main.java.ders15;
 
 public class BankAccountImpl implements BankAccount {
     @Override

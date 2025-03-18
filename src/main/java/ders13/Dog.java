@@ -1,4 +1,4 @@
-package ders13;
+package main.java.ders13;
 
 public class Dog extends Animal {
     @Override

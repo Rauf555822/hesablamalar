@@ -1,4 +1,4 @@
-package ders14;
+package main.java.ders14;
 
 public class Printer {
     void print(String message) {

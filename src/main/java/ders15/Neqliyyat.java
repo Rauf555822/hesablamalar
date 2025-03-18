@@ -1,4 +1,4 @@
-package java.ders15;
+package main.java.ders15;
 
 public abstract class Neqliyyat {
     abstract void start();

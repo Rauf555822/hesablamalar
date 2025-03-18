@@ -1,4 +1,4 @@
-package ders9;
+package main.java.ders9;
 
 class Car extends Vehicle {
 

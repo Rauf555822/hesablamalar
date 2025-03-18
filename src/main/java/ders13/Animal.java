@@ -1,4 +1,4 @@
-package ders13;
+package main.java.ders13;
 
 public class Animal {
     public void makeSound() {

@@ -1,4 +1,4 @@
-package ders5veders6;
+package main.java.ders5veders6;
 
 public class Task4 {
     static class Person {
@@ -36,7 +36,7 @@ public class Task4 {
             System.out.println("Hello! I am a person.");
         }
 
-        // Main metodu test üçün
+        // java.main.Main metodu main.test üçün
         public static void main(String[] args) {
             Person person = new Person("Rauf", 18, "Male", "Baku");
 

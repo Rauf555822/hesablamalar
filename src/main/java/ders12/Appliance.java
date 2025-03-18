@@ -1,4 +1,4 @@
-package ders12;
+package main.java.ders12;
 
 public class Appliance {
     String brand;
@@ -9,8 +9,8 @@ public class Appliance {
 //    WashingMachine(String brand, int power) {
 //        super.(brand, power);
 //    }
-// public class Main{
-//    public static void main(String[] args) {
+// public class java.main.Main{
+//    public static void java.main(String[] args) {
 //    //WashingMachine washingMachine = new WashingMachine("WashingMachine", 100);}
 // }
 // }

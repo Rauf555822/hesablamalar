@@ -1,4 +1,4 @@
-package ders11;
+package main.java.ders11;
 
 public class Rectangle extends Shape {
 

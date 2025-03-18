@@ -1,4 +1,4 @@
-package ders3;
+package main.java.ders3;
 
 import java.util.Scanner;
 
