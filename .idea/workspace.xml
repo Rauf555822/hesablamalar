@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c6efe4-699e-4931-9c9e-0c6bf8925efc" name="Changes" comment="ders15">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ders16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ders16/Student.java" afterDir="false" />
+    <list default="true" id="25c6efe4-699e-4931-9c9e-0c6bf8925efc" name="Changes" comment="ders16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ders17/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ders17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ders17/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ders17/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.ders17.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -89,12 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742321865748</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ders16">
+      <option name="closed" value="true" />
+      <created>1742927720206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742927720207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ders15" />
-    <option name="LAST_COMMIT_MESSAGE" value="ders15" />
+    <MESSAGE value="ders16" />
+    <option name="LAST_COMMIT_MESSAGE" value="ders16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
