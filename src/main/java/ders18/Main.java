@@ -9,3 +9,4 @@ public class Main {
         Cat.makeSound();
     }
 }
+
