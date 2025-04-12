@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c6efe4-699e-4931-9c9e-0c6bf8925efc" name="Changes" comment="ders21">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ders22/Phonebook.java" afterDir="false" />
+    <list default="true" id="25c6efe4-699e-4931-9c9e-0c6bf8925efc" name="Changes" comment="ders22">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ders22/LibrarySystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HashSet.executor": "Run",
+    "Application.LibrarySystem.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main1.executor": "Run",
     "Application.Phonebook.executor": "Run",
@@ -159,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744045179757</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ders22">
+      <option name="closed" value="true" />
+      <created>1744455794481</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744455794481</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,7 +179,8 @@
     <MESSAGE value="ders19" />
     <MESSAGE value="ders20" />
     <MESSAGE value="ders21" />
-    <option name="LAST_COMMIT_MESSAGE" value="ders21" />
+    <MESSAGE value="ders22" />
+    <option name="LAST_COMMIT_MESSAGE" value="ders22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
