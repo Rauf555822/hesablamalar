@@ -1,4 +1,4 @@
-package main.java.ders22;
+package main.java.ders23;
 
 import java.util.*;
 
