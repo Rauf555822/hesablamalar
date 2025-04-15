@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c6efe4-699e-4931-9c9e-0c6bf8925efc" name="Changes" comment="ders22">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ders22/LibrarySystem.java" afterDir="false" />
+    <list default="true" id="25c6efe4-699e-4931-9c9e-0c6bf8925efc" name="Changes" comment="ders23">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ders24/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Application.Main.executor": "Run",
     "Application.Main1.executor": "Run",
     "Application.Phonebook.executor": "Run",
+    "Application.Task.executor": "Run",
     "Application.ders17.executor": "Run",
     "Application.hashset.executor": "Run",
     "Application.main.executor": "Run",
@@ -168,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744455794481</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ders22">
+      <option name="closed" value="true" />
+      <created>1744458912297</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744458912297</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ders23">
+      <option name="closed" value="true" />
+      <created>1744458987901</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744458987901</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,7 +197,8 @@
     <MESSAGE value="ders20" />
     <MESSAGE value="ders21" />
     <MESSAGE value="ders22" />
-    <option name="LAST_COMMIT_MESSAGE" value="ders22" />
+    <MESSAGE value="ders23" />
+    <option name="LAST_COMMIT_MESSAGE" value="ders23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
