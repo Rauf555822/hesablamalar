@@ -1,9 +1,8 @@
-package main.java.ders24;
+package main.java.ders25;
 
-import java.io.StringBufferInputStream;
 import java.util.Scanner;
 
-public class Task1 {
+public class Task {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = null;
