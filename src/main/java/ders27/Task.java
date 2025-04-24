@@ -25,11 +25,11 @@ public class Task {
         LocalTime vaxtMinus = vaxt.minusHours(2);
         LocalDateTime dateTime = LocalDateTime.of(tarix, vaxt);
 
-        System.out.println("Daxil edilen tarix: " + tarix);
-        System.out.println("+7 gun: " + tarixPlus);
-        System.out.println("Daxil edilen vaxt: " + vaxt);
-        System.out.println("-2 saat: " + vaxtMinus);
-        System.out.println("tarix ve vaxt: " + dateTime);
+        System.out.println("Daxil edilen tarix: " + tarix.format(dateFormatter));
+        System.out.println("+7 gun: " + tarixPlus.format(dateFormatter));
+        System.out.println("Daxil edilen vaxt: " + vaxt.format(timeFormatter));
+        System.out.println("-2 saat: " + vaxtMinus.format(timeFormatter));
+        System.out.println("tarix ve vaxt: " + dateTime.format(dateTimeFormatter));
     }
 }
 
