@@ -12,7 +12,6 @@ public class Task2 {
             System.out.println("Ad daxil edin");
             String names = scanner.nextLine();
             names1.add(names.toUpperCase());
-            System.out.println();
         }
         System.out.println(names1);
     }
